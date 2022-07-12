@@ -33,7 +33,7 @@ html, body {
     padding: 0;
     font-weight: 600;
     text-align: center;
-    color: #fff;
+    color: white;
 }
 
 #header .profile .social-links a {
@@ -103,7 +103,7 @@ section#inicio {
 
 
 section#inicio h2{
-    font-size: 5rem;
+    font-size: 6rem;
 }
 
 section#inicio span#subtitle{
@@ -141,14 +141,6 @@ i.menu-mobile {
     align-items: center;
 }
 
-.menu-nav-active {
-    overflow: hidden;
-}
-
-.menu-nav-active #header {
-    left: 0;
-}
-
 @media (max-width: 1024px) {
     #header {
         left: -300px;
@@ -160,15 +152,10 @@ i.menu-mobile {
 
     section#inicio h2 {
         font-size: 3.5rem;
-        text-align: center;
     }
 
-    section#inicio span#subtitle {
+    span#subtitle {
         margin-right: 0;
         font-size: 1rem;
-    }
-
-    #main {
-        margin-left: 0;
     }
 }

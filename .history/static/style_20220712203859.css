@@ -103,7 +103,7 @@ section#inicio {
 
 
 section#inicio h2{
-    font-size: 5rem;
+    font-size: 4rem;
 }
 
 section#inicio span#subtitle{
@@ -160,7 +160,6 @@ i.menu-mobile {
 
     section#inicio h2 {
         font-size: 3.5rem;
-        text-align: center;
     }
 
     section#inicio span#subtitle {

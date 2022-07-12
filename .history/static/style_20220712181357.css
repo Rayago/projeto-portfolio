@@ -103,7 +103,7 @@ section#inicio {
 
 
 section#inicio h2{
-    font-size: 5rem;
+    font-size: 6rem;
 }
 
 section#inicio span#subtitle{
@@ -142,11 +142,7 @@ i.menu-mobile {
 }
 
 .menu-nav-active {
-    overflow: hidden;
-}
 
-.menu-nav-active #header {
-    left: 0;
 }
 
 @media (max-width: 1024px) {
@@ -160,7 +156,6 @@ i.menu-mobile {
 
     section#inicio h2 {
         font-size: 3.5rem;
-        text-align: center;
     }
 
     section#inicio span#subtitle {
