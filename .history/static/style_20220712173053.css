@@ -118,8 +118,3 @@ section#inicio span#subtitle{
 section#inicio div#arraste {
     width: 9rem;
 }
-
-section#inicio div#arraste a {
-    text-decoration: none;
-    color: #fff;
-}
